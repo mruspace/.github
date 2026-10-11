@@ -27,7 +27,7 @@ yet.
 - [docs](https://github.com/mruspace/docs): source of
   [docs.mru.space](https://docs.mru.space)
 - [whitepaper](https://github.com/mruspace/whitepaper): the architecture,
-  [doi:10.5281/zenodo.20579438](https://doi.org/10.5281/zenodo.20579438)
+  [doi:10.5281/zenodo.23305299](https://doi.org/10.5281/zenodo.23305299)
 - [website](https://github.com/mruspace/website): source of
   [mru.space](https://mru.space)
 
