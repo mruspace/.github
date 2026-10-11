@@ -7,6 +7,8 @@
   </a>
 </p>
 
+> Systems that still run a thousand years after we're gone.
+
 Mru builds software for unattended missions with no repair path. When a
 processor fails and no one can replace it, Mru steps down from voting on three
 replicas to comparing two, then to one replica that checks its own work, so the
