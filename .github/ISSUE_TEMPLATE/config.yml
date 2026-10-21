@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Documentation
-    url: https://docs.mru.space
-    about: Concepts, the runtime, the bench and the simulators.
-  - name: Questions and security problems
-    url: mailto:contact@mru.space
-    about: Email contact@mru.space. Put "security" in the subject for a security problem.
